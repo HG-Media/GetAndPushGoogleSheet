@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushValueToGoogleSheet", "PushValueToGoogleSheet\PushValueToGoogleSheet.csproj", "{1BB61D25-DA23-430F-ADC9-838F3837E9B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Push and Get gogle sheet", "Setup Push and Get gogle sheet\Setup Push and Get gogle sheet.vdproj", "{0BB4D614-D949-48F0-84D5-FB5F8F64FB34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB61D25-DA23-430F-ADC9-838F3837E9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB61D25-DA23-430F-ADC9-838F3837E9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB61D25-DA23-430F-ADC9-838F3837E9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB61D25-DA23-430F-ADC9-838F3837E9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB4D614-D949-48F0-84D5-FB5F8F64FB34}.Debug|Any CPU.ActiveCfg = Debug
+		{0BB4D614-D949-48F0-84D5-FB5F8F64FB34}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2DE4DA-5D09-417D-835D-18FCB87E684F}
+	EndGlobalSection
+EndGlobal

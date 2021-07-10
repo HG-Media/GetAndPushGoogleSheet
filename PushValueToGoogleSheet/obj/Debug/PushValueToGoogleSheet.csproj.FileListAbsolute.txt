@@ -1,0 +1,53 @@
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.csprojAssemblyReference.cache
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.Form1.resources
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.Properties.Resources.resources
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.csproj.GenerateResource.cache
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.csproj.CoreCompileInputs.cache
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\PushValueToGoogleSheet.exe.config
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\PushValueToGoogleSheet.exe
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\PushValueToGoogleSheet.pdb
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Auth.dll
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Core.dll
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.dll
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Sheets.v4.dll
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Newtonsoft.Json.dll
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.pdb
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.xml
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Auth.pdb
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Auth.xml
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Core.pdb
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Core.xml
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Sheets.v4.pdb
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Sheets.v4.xml
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Newtonsoft.Json.xml
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.csproj.CopyComplete
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.exe
+D:\Công việc\Công việc HG Media\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.pdb
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\PushValueToGoogleSheet.exe.config
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\PushValueToGoogleSheet.exe
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\PushValueToGoogleSheet.pdb
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Auth.dll
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Core.dll
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.dll
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.PlatformServices.dll
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Sheets.v4.dll
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Newtonsoft.Json.dll
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.pdb
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.xml
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Auth.pdb
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Auth.xml
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Core.pdb
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Core.xml
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Sheets.v4.pdb
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Google.Apis.Sheets.v4.xml
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\bin\Debug\Newtonsoft.Json.xml
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.Form1.resources
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.Properties.Resources.resources
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.csproj.GenerateResource.cache
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.csproj.CoreCompileInputs.cache
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.csproj.CopyComplete
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.exe
+D:\CongViec\HGMediaWork\HGMEDIAWORK\PushValueToGoogleSheet\PushValueToGoogleSheet\obj\Debug\PushValueToGoogleSheet.pdb
